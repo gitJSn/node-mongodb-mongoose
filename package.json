@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "nodemon app.ts"
+  },
   "dependencies": {
     "mongoose": "^6.8.1"
   },
