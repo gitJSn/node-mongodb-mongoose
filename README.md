@@ -1,4 +1,4 @@
-# node-mongodb-mongoose
+# node-mongodb-mongoose-typescript
 
 
 ```
